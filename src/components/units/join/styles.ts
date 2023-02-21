@@ -95,4 +95,5 @@ text-align: center;
 letter-spacing: -0.05em;
 color: #FFFFFF;
 justify-content: center;
+border: #000000;
 `
