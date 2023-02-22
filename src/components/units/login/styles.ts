@@ -60,7 +60,7 @@ line-height: 100%;
 color: #A9A9A9;
 `
 export const BtnWrap = styled.div``
-export const Btn = styled.div`
+export const Btn = styled.button`
 width: 186px;
 height: 123px;
 background: #000000;

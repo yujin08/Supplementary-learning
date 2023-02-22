@@ -1,5 +1,7 @@
 import styled from "@emotion/styled";
 
+export const Wrap = styled.form``
+
 export const TopWrap = styled.div`
 margin-bottom: 100px;
 `
